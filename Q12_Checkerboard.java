@@ -15,6 +15,6 @@ public class CheckerboardPattern{
   public static void main(String[] args) {
       int n=Integer.parseInt(args[0]);
       System.out.println(" the checkerboard pattern is \n");
-      CheckerboardPattern(n,n); //call the method
+      checkerboard(n,n); //call the method
    }
 }
